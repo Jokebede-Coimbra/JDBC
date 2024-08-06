@@ -1,4 +1,4 @@
-import java.io.Serial;
+package db;
 
 public class DbException extends RuntimeException {
 
